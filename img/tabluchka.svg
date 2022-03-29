@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 26.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Шар_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 1284 651" style="enable-background:new 0 0 1284 651;" xml:space="preserve">
+<style type="text/css">
+	.st0{opacity:0.5;fill:#6978C4;enable-background:new    ;}
+	.st1{opacity:0.77;fill:url(#SVGID_1_);}
+	.st2{opacity:0.77;fill:url(#SVGID_00000004522940342904195750000005983127042893457554_);}
+</style>
+<g>
+	<path class="st0" d="M1235.38,640.84H89.69c-21.67,0-39.24-17.57-39.24-39.24V89.78c0-21.67,17.57-39.24,39.24-39.24h1145.69
+		c21.67,0,39.24,17.57,39.24,39.24V601.6C1274.62,623.27,1257.05,640.84,1235.38,640.84z"/>
+	<path class="st0" d="M1195.75,601.11H50.06c-21.67,0-39.24-17.57-39.24-39.24V50.05c0-21.67,17.57-39.24,39.24-39.24h1145.69
+		c21.67,0,39.24,17.57,39.24,39.24v511.82C1235,583.54,1217.42,601.11,1195.75,601.11z"/>
+</g>
+<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="84.6429" y1="75.3232" x2="955.3234" y2="52.3897">
+	<stop  offset="0" style="stop-color:#FFFFFF;stop-opacity:0.7"/>
+	<stop  offset="1" style="stop-color:#FFFFFF;stop-opacity:0.2"/>
+</linearGradient>
+<path class="st1" d="M306.06,80.5h-190.5c-4.69,0-8.5-3.81-8.5-8.5v0c0-4.69,3.81-8.5,8.5-8.5h190.5c4.69,0,8.5,3.81,8.5,8.5v0
+	C314.56,76.69,310.75,80.5,306.06,80.5z"/>
+<linearGradient id="SVGID_00000019660097608699226690000010485881874107277748_" gradientUnits="userSpaceOnUse" x1="232.1316" y1="77.8289" x2="646.8823" y2="66.9045">
+	<stop  offset="0" style="stop-color:#FFFFFF;stop-opacity:0.7"/>
+	<stop  offset="1" style="stop-color:#FFFFFF;stop-opacity:0.2"/>
+</linearGradient>
+<path style="opacity:0.77;fill:url(#SVGID_00000019660097608699226690000010485881874107277748_);" d="M437.4,82h-81.84
+	c-4.69,0-8.5-3.81-8.5-8.5v0c0-4.69,3.81-8.5,8.5-8.5h81.84c4.69,0,8.5,3.81,8.5,8.5v0C445.9,78.19,442.09,82,437.4,82z"/>
+</svg>

@@ -1,0 +1,78 @@
+html, body {
+    max-width: 100%;
+    overflow-x: hidden;
+}
+body {
+    position: relative;
+    overflow-x: hidden;
+    margin: 0;
+    max-width: 100%;
+    color: white;
+        height: 200px;
+        background: linear-gradient(#263085 , #476CBA);
+
+    font-family: "Cinzel", serif;
+    font-family: "Montserrat", sans-serif;
+    min-height: 500vh;
+}
+html, body {
+    max-width: 100%;
+    overflow-x: hidden;
+}
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+user agent stylesheet
+script {
+    display: none;
+}
+.logo {
+    position: absolute;
+    left: 75%;
+    top: 0;
+}
+img {
+    border-style: none;
+}
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+   .star {
+    width: 3%;
+    margin-top: 15px;
+    margin-left: 60%;
+  }
+  .tabluchka {
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-top: -1.7%;
+  }
+  .rocket-red-small-with {
+    width: 100px;
+  }
+  .cloud1 {
+    width: 100px;
+  }
+  .cloud2 {
+    width: 100px;
+  }
+  .cloud3 {
+    width: 100px;
+  }
+  .cloud4 {
+    width: 100px;
+  }
+  .homes-and-2cloud {
+    position: absolute;
+    bottom: 0;
+    left: -5px;
+  }
